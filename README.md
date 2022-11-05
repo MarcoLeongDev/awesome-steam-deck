@@ -52,4 +52,7 @@ Discover store is often the first go-to when searching or exploring softwares. B
 - [ ] Add and run an .exe game/app as non-Steam game
 - [ ] Install a non-steam game/app via ISO
 - [ ] Explore pacman + command-line and start the journey of a power-user
-- [ ] Maybe, buy me a coffee :)
+- [ ] Maybe, [buy me a coffee](https://github.com/MarcoLeongDev/awesome-steam-deck/edit/main/README.md#perhaps-) :)
+
+## Perhaps ...
+[Buy me a ☕️](https://www.buymeacoffee.com/marcoleong)
