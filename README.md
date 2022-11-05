@@ -37,3 +37,19 @@ Discover store is often the first go-to when searching or exploring softwares. B
 - [Flathub](https://flathub.org/home): [Flatpak](https://flatpak.org/) is an apps store for SteamOS, integrated and directly searchable and installable from Discover store on Steam Deck
 - [KDE Applications](https://apps.kde.org/): Apps store for [KDE](https://en.m.wikipedia.org/wiki/KDE_Plasma_5) which is what SteamOS uses, integrated and directly searchable and installable from Discover store on Steam Deck
 - [pacman](https://archlinux.org/packages/): [pacman](https://archlinux.org/pacman/) is a utility which manages software packages in SteamOS (Arch Linux). Accessible via command-line.
+
+## Knowledge checks
+- [ ] Install Steam game, uninstall Steam game
+- [ ] Switch to Desktop mode, Switch to Gaming mode
+- [ ] Install a game/app from Discover store, update and game/app from Discover store
+- [ ] Install other version of Proton via ProtonUp-QT
+- [ ] Configure Proton version for a game/app in Steam
+- [ ] Add a non-Steam game to the Steam library
+- [ ] Configure custom Artworks for non-steam game/app
+- [ ] Install a game from third-party store, e.g. Epic game, GOG, etc
+- [ ] Change controller settings for a game/app in Steam library
+- [ ] Explore EmuDeck for retro-game preservation 
+- [ ] Add and run an .exe game/app as non-Steam game
+- [ ] Install a non-steam game/app via ISO
+- [ ] Explore pacman + command-line and start the journey of a power-user
+- [ ] Maybe, buy me a coffee :)
