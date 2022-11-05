@@ -5,7 +5,7 @@
 This is a curation of useful resources on Steam Deck.
 
 ## Steam Artworks
-Artwork is not a requirement for a game to function. Yet, Steam library allows artworks to be configured with both Steam game and Non-Steam games. This makes the library more beautiful, personalised and more user-friendly. Im general, five types of artworks are configurable for a game/app in Steam Library, namely: poster (portrait), banner (landscape), logo, icon and hero (background). SteamGridDB is a common site to find and share artworks.
+Artwork is not a requirement for a game to function. Yet, Steam library allows artworks to be configured with both Steam games and Non-Steam games. This makes the library more beautiful, personalised and more user-friendly. Im general, five types of artworks are configurable for a game/app in Steam Library, namely: poster (portrait), banner (landscape), logo, icon and hero (background). SteamGridDB is a common site to find and share artworks.
 - [SteamGridDB](https://www.steamgriddb.com/): For sharing custom video game assets and personalize your steam library 
 
 ## Proton
