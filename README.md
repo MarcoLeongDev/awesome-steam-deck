@@ -16,7 +16,7 @@ Proton is a compatibility layer for Microsoft Windows games to run on Linux-base
 - [ProtonDB](https://www.protondb.com/): Check if a game is compatible with Steam Deck
 
 ## Optimisation
-- [FSR](https://en.m.wikipedia.org/wiki/GPUOpen#FidelityFX_Super_Resolution): FidelityFX Super Resolution (FSR) is used to upsample an input image into a higher resolution. Some game supports FSR natively, while the Steam Deck is able to use FSR regard if the game support it. This can be achieved by setting the game resolution lower than the native (1280x800 16:10), to maintain 16:10 resolution, these are some of the resolution 1152x720, 960x600, 800x500, 768x480, 640x400, etc
+- [FSR](https://en.m.wikipedia.org/wiki/GPUOpen#FidelityFX_Super_Resolution): FidelityFX Super Resolution (FSR) is used to upsample an input image into a higher resolution. This generally improve performance in FPS. Some games support FSR natively, while the Steam Deck is able to use FSR regardless if the game supports it. FSR can be activate by enabling the setting in Steam Deck and by setting the game resolution lower than the native 1280x800 ratio of 16:10. To maintain the ratio of 16:10 and avoid black bars on top and bottom, these are some of the resolutions 1152x720, 960x600, 800x500, 768x480, 640x400, etc
  
 ## Emulators
 - [EmuDeck](https://www.emudeck.com): A collection of scripts that allows you to autoconfigure your Steam Deck.
