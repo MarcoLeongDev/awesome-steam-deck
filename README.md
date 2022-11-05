@@ -11,5 +11,7 @@ This is a curation of useful resources on Steam Deck.
   - [Offical installation guide](https://www.emudeck.com/#how_to_install)
   - [Video installation guide](https://m.youtube.com/watch?v=AvzSHxccmIg)
 
+## SteamOS
+- [SteamOS on non-steam device](https://m.youtube.com/watch?v=Xr2BO4IPqro)
 
 *🚧 Under construction 🚧*
