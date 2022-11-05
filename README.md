@@ -5,10 +5,18 @@
 This is a curation of useful resources on Steam Deck.
 
 ## Steam Artworks
-- [SteamDB](https://www.steamgriddb.com/): The place to go for downloading and share custom video game assets and personalize your steam library
+Steam artwork aren't required for a game to function, Steam library allow artworks to be configured with bith Steam game and Non-Steam games. Im general, five types are needed: namely, poster (portrait), banner (landscape), logo, icon and hero (background). SteamGridDB is a common site for that.
+- [SteamGridDB](https://www.steamgriddb.com/): For sharing custom video game assets and personalize your steam library 
+
+## Proton
+Proton is a compatibility layer for Microsoft Windows games to run on Linux-based operating systems. SteamOS comes with a version of Proton by default. In general, the latest version tends to have a larger list of compatible games and the default Proton version may not be the latest. [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) is an App to manage Proton versions. After a version is installed, it will be accessible by Steam, Lutris, Heroic game launcher, etc
+- [ProtonUp-QT](https://davidotek.github.io/protonup-qt/): install from [Flatpak](https://flathub.org/apps/details/net.davidotek.pupgui2) via Discover store
+
+## Compatibility 
+- [ProtonDB](https://www.protondb.com/): Check if a game is compatible with Steam Deck
 
 ## Emulators
-- [EmuDeck](https://www.emudeck.com): EmuDeck is a collection of scripts that allows you to autoconfigure your Steam Deck.
+- [EmuDeck](https://www.emudeck.com): A collection of scripts that allows you to autoconfigure your Steam Deck.
   - [Offical installation guide](https://www.emudeck.com/#how_to_install)
   - [Video installation guide](https://m.youtube.com/watch?v=AvzSHxccmIg)
 
