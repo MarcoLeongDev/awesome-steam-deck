@@ -33,5 +33,7 @@ The convention is to use Heroic for gaming mode with Epic game and GOG; Lutris f
   - Install from Discover store
 
 ## Softwares
-- [Flathub](https://flathub.org/home): Apps store for Linux, integrated and directly searchable and installable from Discover store on Steam Deck
-- [KDE Applications](https://apps.kde.org/): Apps store for KDE Linux, instegrated and directly searchable and installable from Discover store on Steam Deck
+Discover store is often the first go-to when searching or exploring softwares. Both Flatpak and KDE Applications are accessible via Discover store. More power users and software beyond Discover store, pacman in command-line might come in handy
+- [Flathub](https://flathub.org/home): [Flatpak](https://flatpak.org/) is an apps store for SteamOS, integrated and directly searchable and installable from Discover store on Steam Deck
+- [KDE Applications](https://apps.kde.org/): Apps store for [KDE](https://en.m.wikipedia.org/wiki/KDE_Plasma_5) which is what SteamOS uses, integrated and directly searchable and installable from Discover store on Steam Deck
+- [pacman](https://archlinux.org/packages/): [pacman](https://archlinux.org/pacman/) is a utility which manages software packages in SteamOS (Arch Linux). Accessible via command-line.
