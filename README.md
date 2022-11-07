@@ -1,8 +1,6 @@
 # Awesome Steam Deck
 
-This is a curation of useful resources on Steam Deck.
-
-*🚧 Under construction 🚧*
+This is a mindful curation of useful resources on Steam Deck.
 
 ## Table of content
 - [Awesome Steam Deck](#awesome-steam-deck)
