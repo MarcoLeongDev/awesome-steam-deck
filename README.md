@@ -60,17 +60,20 @@ Discover store is often the first go-to when searching or exploring softwares. B
 - [pacman](https://archlinux.org/packages/): [pacman](https://archlinux.org/pacman/) is a utility which manages software packages in SteamOS (Arch Linux). Accessible via command-line.
 
 
-## FAQ
+# FAQ
 
-### Q: Error "The following component(s) are required to run this program: Microsoft Visual C++ Runtime" upon custom installation
+## 1. Error "The following component(s) are required to run this program: Microsoft Visual C++ Runtime" upon custom installation?
 1. When you open the game, and it doesn't work and gives you the error - this will create a prefix in the system
 2. Download one of the `x86` and `x64` from [Microsoft redistributables here](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 3. Change the path from the game's properties to the `x86 Visual C++ installer .exe` and run the game, this will install Visual C++ to the game's prefix
 4. Repeat the same step for `x64`
 5. Change the path back to the game's `.exe` and the game should work accordingly
 
+## 2. Why framerate limit / FPS limit is not working is not working?
+This is a known bug in gamescope that affects all openGL based games when `v-sync` is not enabled. To address it, enable `v-sync` in the game. See [reference](https://www.reddit.com/r/SteamDeck/comments/tqfqeg/bug_on_steamdeck_that_sometimes_doesnt_restrict/#CommentTopMeta--Created--t1_i2i6rsm)
 
-## Knowledge checks
+
+# Knowledge checks
 - [ ] Install Steam game, uninstall Steam game
 - [ ] Switch to Desktop mode, Switch to Gaming mode
 - [ ] Install a game/app from Discover store, update and game/app from Discover store
