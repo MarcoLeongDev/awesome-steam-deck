@@ -37,6 +37,7 @@ Proton is a compatibility layer for Microsoft Windows games to run on Linux-base
 - [EmuDeck](https://www.emudeck.com): A collection of scripts that allows you to autoconfigure your Steam Deck.
   - [Offical installation guide](https://www.emudeck.com/#how_to_install)
   - [Video installation guide](https://m.youtube.com/watch?v=AvzSHxccmIg)
+- [Yuzu](https://yuzu-emu.org): A Nintendo Switch emulator that is included in the standard installation of EmuDeck, and required extra setup for it to work. For those who doesn't own a Switch, follow this [tutoiral](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Yuzu.md); for those who own a compatible Switch for the instruction on the [offical site](https://yuzu-emu.org)
 
 
 ## Install games from non-steam platforms
