@@ -73,6 +73,10 @@ Discover store is often the first go-to when searching or exploring softwares. B
 ## 2. Why framerate limit / FPS limit is not working is not working?
 This is a known bug in gamescope that affects all openGL based games when `v-sync` is not enabled. To address it, enable `v-sync` in the game. See [reference](https://www.reddit.com/r/SteamDeck/comments/tqfqeg/bug_on_steamdeck_that_sometimes_doesnt_restrict/#CommentTopMeta--Created--t1_i2i6rsm)
 
+## 3. Why am I seeing blurred or pixelated font or visual in some games?
+This is because of `half rate shading`, turn it off. This feature is suppost to lower power consumption, yet, it can make some text/graphic pixelated or blurred. The proper of `variable rate shading` considering the context on the screen is actually a good feature, i.e. darker area in a bright scene with reduced qualtity is unnoticable. However, the current implementation in the Steam Deck applies to the entire scene, resulting in detail loss in some cases. For more information, see the discussion [here](https://www.reddit.com/r/SteamDeck/comments/up1r96/blurry_visuals_on_some_games/), [here](https://www.reddit.com/r/SteamDeck/comments/v9l56q/horribly_blurredpixelated_font_in_games_but_not/) and [here](https://steamcommunity.com/app/1675200/discussions/0/5135803832908051713/)
+
+
 
 # Knowledge checks
 - [ ] Install Steam game, uninstall Steam game
