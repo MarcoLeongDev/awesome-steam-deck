@@ -13,7 +13,7 @@ This is a mindful curation of useful resources on Steam Deck.
   * [SteamOS](#steamos)
   * [Softwares](#softwares)
   * [Knowledge checks](#knowledge-checks)
-  * [Perhaps ...](#perhaps-)
+  * [Lastly ...](#lastly)
 
 ## Steam Artworks
 Artwork is not a requirement for a game to function. Yet, Steam library allows artworks to be configured with both Steam games and Non-Steam games. This makes the library more beautiful, personalised and more user-friendly. In general, five types of artworks are configurable for a game/app in Steam Library, namely: poster (portrait), banner (landscape), logo, icon and hero (background). SteamGridDB is a common site to find and share artworks.
@@ -93,7 +93,6 @@ This is because of `half rate shading`, turn it off. This feature is suppost to 
 - [ ] Install a non-steam game/app via ISO
 - [ ] Explore pacman + command-line and start the journey of a power-user
 - [ ] Maybe, [buy me a coffee](https://github.com/MarcoLeongDev/awesome-steam-deck/blob/main/README.md#perhaps-) :)
-
 
 
 ## Lastly
