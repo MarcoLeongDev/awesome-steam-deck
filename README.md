@@ -97,3 +97,7 @@ This is because of `half rate shading`, turn it off. This feature is suppost to 
 
 ## Lastly
 If this guide is able to help consider [buying me a ☕️](https://www.buymeacoffee.com/marcoleong)
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. Unofficial, not affiliated with the developer.
